@@ -1,0 +1,14 @@
+node_modules
+dist
+test-results
+playwright-report
+e2e
+tests
+scripts
+*.log
+*.tsbuildinfo
+README.md
+TEST-REPORT.md
+DEPLOYMENT.md
+.env*
+*.zip
